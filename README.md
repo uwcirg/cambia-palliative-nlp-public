@@ -1,4 +1,4 @@
-# cambia-palliative-nlp
+# cambia-palliative-nlp-public
 Publication-shared machine learning work for the Cambia Palliative Care Center of Excellence project.
 
  `classify_goals_of_care.py`
